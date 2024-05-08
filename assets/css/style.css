@@ -1,0 +1,41 @@
+@import "../../node_modules/bootstrap/dist/css/bootstrap.css";
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  padding-left: 7.5rem;
+  padding-right: 7.5rem;
+}
+
+hr {
+  color: bisque;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.carousel {
+  height: 300px;
+}
+
+@media (min-width: 768px) {
+  .carousel {
+    height: 500px;
+  }
+}
+.carousel-item {
+  height: 300px;
+}
+
+@media (min-width: 768px) {
+  .carousel-item {
+    height: 500px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

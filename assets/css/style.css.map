@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../sass/main.scss","../sass/base/_reset.scss","../sass/base/_typography.scss","../sass/components/_carousel.scss"],"names":[],"mappings":"AAAQ;ACAR;EACI;EACA;EACA;;;AAEJ;EACI;EACA;EACA;;;AAEJ;EACI;;;ACXJ;EACI;;;ACDJ;EACI;;;AAEF;EACE;IACE;;;AAGJ;EACI;;;AAEF;EACE;IACE","file":"style.css"}
